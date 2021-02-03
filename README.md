@@ -1,5 +1,5 @@
-# freev2ray
-2021最新免费v2ray节点分享
+## 2021最新免费v2ray节点分享--长期更新
+
 均为免费SS / SSR / V2Ray节点。长期更新，长期有效，帮助更多用户免费地连接到世界互联网。
 免费节点适合临时翻墙使用，如需高速稳定的专线节点，推荐注册[realnode](https://realnode.cloud/#/register?code=c0tBDrSC)，8K高清视频秒开起飞，[点击注册](https://realnode.cloud/#/register?code=c0tBDrSC)
 以下节点不定时更新
