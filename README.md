@@ -8,7 +8,7 @@
 
 请直接复制vemss地址导入到v2rayn、clash、clashx、Shadowrocket等客户端中
 
-最近更新日期：2021/08/01
+最近更新日期：2021/09/01
 
 日本 Y01 | HKNF | 免流
 
