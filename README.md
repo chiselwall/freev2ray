@@ -1,8 +1,8 @@
 ## 2021最新免费v2ray节点分享--长期更新
 
-免费节点适合临时翻墙使用，如需高速稳定的IPLC专线节点，推荐注册[realnode](https://realnode.co/#/register?code=c0tBDrSC)，8K高清视频秒开起飞，[点击注册](https://realnode.co/#/register?code=c0tBDrSC)
+免费节点适合临时翻墙使用，如需高速稳定的IPLC专线节点，推荐注册[realnode](https://chiselwall.com/#/register?code=wSfKsFJk)，8K高清视频秒开起飞，[点击注册](https://realnode.co/#/register?code=c0tBDrSC)
 
-[![5OhHL.png](https://i.w3tt.com/2021/09/01/5OhHL.png)](https://realnode.co/#/register?code=c0tBDrSC)
+[![5OhHL.png](https://i.w3tt.com/2021/09/01/5OhHL.png)](https://chiselwall.com/#/register?code=wSfKsFJk)
 
 均为免费SS / SSR / V2Ray节点。长期更新，长期有效，帮助更多用户免费地连接到世界互联网。节点流量充足，支持免流，可以看奈飞，因为是免费节点，速度无法保证。
 
